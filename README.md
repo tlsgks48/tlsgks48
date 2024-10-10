@@ -1,4 +1,8 @@
-### Hi there 👋
+## 안녕하세요.👋 앱 개발자 신한철입니다.
+
+[이력서](https://www.rallit.com/resumes/285085@tlsgks486/%EC%8B%A0%ED%95%9C%EC%B2%A0)
+
+[블로그](https://velog.io/@tlsgks48)
 
 <!--
 **tlsgks48/tlsgks48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
